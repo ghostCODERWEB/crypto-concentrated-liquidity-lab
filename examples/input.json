@@ -1,0 +1,30 @@
+{
+  "initial_price": "100",
+  "positions": [
+    {
+      "id": "wide",
+      "lower": "64",
+      "upper": "144",
+      "liquidity": "1000"
+    },
+    {
+      "id": "narrow",
+      "lower": "81",
+      "upper": "121",
+      "liquidity": "500"
+    }
+  ],
+  "trajectory": [
+    {
+      "price": "100",
+      "fee_token1": "30"
+    },
+    {
+      "price": "130",
+      "fee_token1": "20"
+    },
+    {
+      "price": "160"
+    }
+  ]
+}
